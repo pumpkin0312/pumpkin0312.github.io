@@ -1,15 +1,15 @@
-title: "你的名字"
-description: "硕士研究生 @ 某某大学"
-url: "https://你的用户名.github.io"
+title: "聂平川"
+description: "Institute of Computing Technology, Chinese Academy of Sciences"
+url: "https://pumpkin0312.github.io"
 baseurl: ""
 
 author:
-  name: "你的名字"
+  name: "聂平川"
   avatar: "/images/profile.jpg"   # 把你的头像放在 images/profile.jpg
-  bio: "研究方向：XXX | 兴趣：YYY"
-  location: "某某大学, 某某城市"
-  email: "yourmail@example.com"
-  github: "你的GitHub用户名"
+  bio: "pFind Team"
+  location: "No.6 Zhongguancun South Road, Beijing, China, 100190"
+  email: "npc2252759540@163.com"
+  github: "pumpkin0312"
   orcid: "0000-0000-0000-0000"   # ORCID ID
   researchgate: "ResearchGate用户名"
 
