@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "聂平川"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I used to be superstitious about science."
   location         : "China Beijing"
-  employer         : "Red Brick University"
+  employer         : "University of Chinese Academy of Sciences"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "npc2252759540@163.com" 
 
   # Academic websites
   academia         : # URL
