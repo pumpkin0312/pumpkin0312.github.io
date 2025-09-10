@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Pingchuan Nie"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Pingchuan Nie"
 description              : &description "personal description"
 url                      : https://pumpkin0312.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "pumpkin0312/pumpkin0312.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/profile.png"
-  name             : "聂平川"
+  name             : "Pingchuan Nie (聂平川)"
   pronouns         : # example: "she/her"  
   bio              : "I used to be superstitious about science."
   location         : "China Beijing"
@@ -354,4 +354,5 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
+
     envs: development
