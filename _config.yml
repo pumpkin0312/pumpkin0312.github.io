@@ -22,7 +22,7 @@ repository               : "pumpkin0312/pumpkin0312.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Pingchuan Nie (聂平川)"
   pronouns         : # example: "she/her"  
   bio              : "I used to be superstitious about science."
@@ -356,3 +356,4 @@ compress_html:
   ignore:
 
     envs: development
+
